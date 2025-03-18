@@ -32,7 +32,7 @@ elif operation == 2:
     print(num1, "-", num2, "=", sub(num1, num2))
 elif operation == 3:
     print(num1, "*", num2, "=", mul(num1, num2))
-elif oprration == 4:
+elif operation == 4:
     print(num1, "/", num2, "=", div(num1, num2))
 else:
     print("Invalid input")
